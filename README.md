@@ -6,3 +6,13 @@ How to play?
 2. Read the RGB decimal code shown in the header. It will look like this: RGB(x, y, z).
 3. Guess the correct color.
 4. If you wish to change the given colors, you can reset by clicking on "New Colors".
+
+Hard Mode (6 colors):
+<img src="https://github.com/buddhavineeth/RGB-Guessing-Game/blob/master/screenshotHard.jpg" width = 70%>
+
+
+
+
+Easy Mode (3 colors): 
+<img src="https://github.com/buddhavineeth/RGB-Guessing-Game/blob/master/screenshotEasy.jpg" width = 70%>
+
